@@ -1,4 +1,4 @@
-![Meme: Oh god how did this get here I am not good with computer](notgoodwithcomputer.jpeg)
+![Meme: Oh god how did this get here I am not good with computer](https://raw.githubusercontent.com/BillyWM/BillyWM/master/notgoodwithcomputer.jpeg)
 
 <!--
 **BillyWM/BillyWM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
